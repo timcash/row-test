@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@rowsncolumns/spreadsheet": "^2.0.51",
     "next": "9.5.0",
     "react": "16.13.1",
     "react-dom": "16.13.1"
